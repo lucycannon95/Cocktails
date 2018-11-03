@@ -23,6 +23,12 @@ p.display
 	line-height:90%;
 	font-size: 120%; 
 }
+p.text 
+{
+	font-family: 'Helvetica', sans-serif;
+	font-style: italic;
+	font-size: 200%; 
+}
 
 input::placeholder 
 {

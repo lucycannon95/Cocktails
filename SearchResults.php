@@ -112,7 +112,10 @@ if ($conn)
 // Displaying message for no results 
 if (empty($resultsArray)) 
 {
-    echo "No results found, please search again!"; 
+?> 
+<center> <br><br><br> <p class = "text">
+<?php
+    echo "No results found, please search again!"; ?></center> </p> <?php
 }
 else
 {
