@@ -115,7 +115,8 @@ if (empty($resultsArray))
 ?> 
 <center> <br><br><br> <p class = "text">
 <?php
-    echo "No results found, please search again!"; ?></center> </p> <?php
+    echo "No results found, please search again!"; ?></center> 
+    <a href = 'index.php'>Back to search </a> </p> <?php
 }
 else
 {
