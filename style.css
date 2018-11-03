@@ -15,7 +15,11 @@ h2 {
 	color: palevioletred;
   	font-size: 300%;
 }
-
+h3 {
+	font-family: 'Helvetica', sans-serif;
+	color: palevioletred;
+  	font-size: 100%;
+}
 p.display 
 {
 	font-family: 'Helvetica', sans-serif;
