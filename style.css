@@ -1,0 +1,88 @@
+body
+{
+	background-color: whitesmoke;
+}
+
+h1 
+{
+    color: palevioletred;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 500%;
+}
+
+h2 {
+	font-family: 'Helvetica', sans-serif;
+	color: palevioletred;
+  	font-size: 300%;
+}
+
+p.display 
+{
+	font-family: 'Helvetica', sans-serif;
+	font-style: italic;
+	line-height:90%;
+	font-size: 120%; 
+}
+
+input::placeholder 
+{
+	color: lightpink;
+}
+
+#browse
+{
+	font-style: italic;
+	font-size: 130%; 
+	float: right;
+    padding-right: 7.5%;
+    font-family: 'Helvetica', sans-serif;
+    color: palevioletred;	
+}
+
+.randomText
+{
+	font-size: 200%; 
+	font-family: 'Helvetica', sans-serif;
+	color: pink;
+	line-height: 100%; 
+}
+
+#random
+{
+	font-size: 100%;
+	color: palevioletred;
+	font-style: italic;
+}
+
+#cocktailSearch
+{
+	font-family: 'Helvetica', sans-serif;
+  	width: 50%;
+    box-sizing: border-box;
+    border-width: 5%; 
+ 	border-color: black;
+ 	color: palevioletred;  	
+}
+
+.buttons 
+{
+ 	border-width: 5%; 
+	border-color: black;
+	font-size: 100%; 
+ 	border-radius: 7.5%; 
+	background-color: pink; 
+	box-sizing: border-box;
+    box-sizing: border-box;
+     
+}
+
+.browseDiv
+{
+	border-color: pink;
+	border-width: 10%;
+	border-style: dotted; 
+	height: 70%; 
+	width:65%;
+}
+
+
