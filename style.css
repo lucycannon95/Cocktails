@@ -12,12 +12,12 @@ h1
 
 h2 {
 	font-family: 'Helvetica', sans-serif;
-	color: palevioletred;
+	color: black;
   	font-size: 300%;
 }
 h3 {
 	font-family: 'Helvetica', sans-serif;
-	color: black;
+	color: palevioletred;
   	font-size: 200%;
 }
 p.display 
